@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>a</key>
+	<dict>
+		<key>vicinity</key>
+		<string>123 Grocery St.</string>
+		<key>name</key>
+		<string>Bob&apos;s Meats</string>
+	</dict>
+	<key>b</key>
+	<dict>
+		<key>vicinity</key>
+		<string>5422 Aisle Nine Ave.</string>
+		<key>name</key>
+		<string>Super Grocery Mart</string>
+	</dict>
+	<key>c</key>
+	<dict>
+		<key>vicinity</key>
+		<string>643 Reusable Pl.</string>
+		<key>name</key>
+		<string>Willie&apos;s Raw Hippie Foods</string>
+	</dict>
+	<key>d</key>
+	<dict>
+		<key>vicinity</key>
+		<string>534 Discount St.</string>
+		<key>name</key>
+		<string>Mega Wholesale Food Products</string>
+	</dict>
+	<key>e</key>
+	<dict>
+		<key>vicinity</key>
+		<string>993 Fake St.</string>
+		<key>name</key>
+		<string>Liam&apos;s Local Grocery</string>
+	</dict>
+	<key>highestIndex</key>
+	<string>-1</string>
+</dict>
+</plist>
